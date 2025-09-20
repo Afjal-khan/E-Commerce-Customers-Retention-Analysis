@@ -10,7 +10,8 @@ The highlighted key KPI'S and insights are Total_sales, Active_customers, Retent
 - **Power BI Desktop** – for data visualization  
 - **Power Query** – for data cleaning and transformation 
 - **DAX & Power Query** – for advance calculations
-- - **POWER PIVOT** – for data modeling and establish relationship
+- **POWER PIVOT** – for data modeling and establish relationship
+- **Excel File** – Customers and Orders data
 ---
 
 ## 📂 Data Source
@@ -46,4 +47,4 @@ The highlighted key KPI'S and insights are Total_sales, Active_customers, Retent
 ---
 
 ## 📸 Dashboard Screenshot
-![Weather Dashboard]()
+![Weather Dashboard](https://github.com/Afjal-khan/E-Commerce-Customers-Retention-Analysis/blob/main/Customers%20retention%20analysis%20dashboard%20image.png)
